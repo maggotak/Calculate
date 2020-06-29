@@ -74,7 +74,7 @@ class Calc {
             System.out.println ("Итог вычисления = "+rom.answerRomanian(s)) ;
         }
         else if (rez == 0 ) {
-               System.out.println("Итог вычисления = " + s);        //в любом случае выводится, не придумал как убрать
+               System.out.println("Итог вычисления = " + s);        
              }
     }
 }
